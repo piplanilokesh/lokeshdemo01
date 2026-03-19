@@ -1,0 +1,5 @@
+step 1 : Create a folder. Say "GIT _ Lab"
+
+step 2 : go inside the newly created folder "
+
+step 3 : go to your country
